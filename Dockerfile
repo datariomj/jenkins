@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.235.5-lts-alpine
+FROM jenkins/jenkins:2.263.4-lts-alpine
 
 ENV JENKINS_USER admin
 ENV JENKINS_PASS admin
